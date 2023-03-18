@@ -1,4 +1,6 @@
 // these codes for trial
+// codes to learn c plus codes
+
 #include<iostream>
 using namespace std;
 int main(){
